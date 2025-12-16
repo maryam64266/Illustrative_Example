@@ -1,4 +1,4 @@
-# Tag Recommendation Using Hybrid Methods to Address Data Sparsity 
+# A Survey and Illustrative Example of Hybrid Semantic and Contextual Models for Improving Diversity and Accuracy in Personalized Tag Recommendation
 
 Files:
 1) data_loading.ipynb: initial dataset loading from movielens
